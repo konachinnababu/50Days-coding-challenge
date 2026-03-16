@@ -1,6 +1,17 @@
 # 📊 Interactive Sales Performance Dashboard (Excel)
+<img width="642" height="458" alt="image" src="https://github.com/user-attachments/assets/e4c4ecd9-7cf8-4d7c-95d6-1bb6a6c34a21" />
+
+
+
+
+
+
+
+
 
 ## 📌 Project Overview
+
+
 
 This project is an **Interactive Sales Performance Dashboard** created using Microsoft Excel.
 The dashboard analyzes sales data to provide insights into revenue, product performance, regional sales, and monthly trends.
