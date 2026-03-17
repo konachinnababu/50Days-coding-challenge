@@ -1,5 +1,5 @@
 # 📊 Interactive Sales Performance Dashboard (Excel)
-<img width="642" height="458" alt="image" src="https://github.com/user-attachments/assets/e4c4ecd9-7cf8-4d7c-95d6-1bb6a6c34a21" />
+<img width="643" height="457" alt="image" src="https://github.com/user-attachments/assets/006abdb0-0952-4d19-99ed-3fdc4a22b2b1" />
 
 
 
