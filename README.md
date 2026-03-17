@@ -68,13 +68,6 @@ The dashboard includes the following insights:
 * Compared **product category performance**
 * Visualized **overall sales performance**
 
----
-
-## 📷 Dashboard Preview
-
-(Add screenshot of the dashboard here)
-
----
 
 ## 🚀 Learning Outcome
 
