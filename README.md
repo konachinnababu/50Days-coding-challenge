@@ -1,4 +1,4 @@
-# 📊 Interactive Sales Performance Dashboard (Excel)
+# Interactive Sales Performance Dashboard (Excel)
 <img width="643" height="457" alt="image" src="https://github.com/user-attachments/assets/006abdb0-0952-4d19-99ed-3fdc4a22b2b1" />
 
 
@@ -9,7 +9,7 @@
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 
 
@@ -18,9 +18,7 @@ The dashboard analyzes sales data to provide insights into revenue, product perf
 
 The goal of this project is to demonstrate **data analysis and dashboard creation skills using Excel**.
 
----
-
-## 📂 Dataset
+## Dataset
 
 The dataset contains the following fields:
 
@@ -33,9 +31,7 @@ The dataset contains the following fields:
 * Unit Price
 * Total Revenue
 
----
-
-## 📈 Dashboard Features
+## Dashboard Features
 
 The dashboard includes the following insights:
 
@@ -48,9 +44,7 @@ The dashboard includes the following insights:
 * **Monthly Sales Trend**
 * **Top Performing Products**
 
----
-
-## 🛠 Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -59,17 +53,14 @@ The dashboard includes the following insights:
 * Data Cleaning
 * KPI Calculations
 
----
-
-## 🎯 Key Insights
+##  Key Insights
 
 * Identified **top performing regions**
 * Analyzed **monthly revenue trends**
 * Compared **product category performance**
 * Visualized **overall sales performance**
 
-
-## 🚀 Learning Outcome
+## Learning Outcome
 
 Through this project I learned:
 
@@ -77,10 +68,3 @@ Through this project I learned:
 * Using **Pivot Tables for data analysis**
 * Designing **KPI metrics**
 * Presenting insights using **visualizations**
-
----
-
-## 👤 Author
-
-Chinna Royal
-Aspiring Data Analyst
