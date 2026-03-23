@@ -1,5 +1,5 @@
 # Logistics Performance Dashboard
-<img width="1263" height="716" alt="image" src="https://github.com/user-attachments/assets/f3bcd04a-56b1-4b2c-aeeb-577db45bdad2" />
+<img width="1280" height="705" alt="image" src="https://github.com/user-attachments/assets/1ec7dee8-bd70-476c-bd14-62509ca3f335" />
 
 
 ##  Project Overview
