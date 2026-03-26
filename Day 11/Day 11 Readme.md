@@ -85,6 +85,11 @@ The dashboard includes slicers for:
 * Optimize premium pricing strategy
 
 ---
+##  Dashboard 
+
+
+<img width="1212" height="691" alt="Screenshot 2026-03-26 225235" src="https://github.com/user-attachments/assets/e95e1e8d-a5e2-44b7-8c90-e48c0f44a596" />
+
 
 ##  Tools Used
 
