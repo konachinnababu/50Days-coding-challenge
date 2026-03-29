@@ -107,7 +107,8 @@ SELECT * FROM Sales ORDER BY quantity DESC;
 ```sql
 SELECT DISTINCT city FROM Sales;
 
-##  Learning Outcome
+```
+### Learning Outcome
 
 By completing this project, you will understand:
 
