@@ -95,15 +95,15 @@ SELECT * FROM STUDENTS order by JOIN_YEAR desc;
  SELECT count(*)  FROM STUDENTS ;
  
  ##15. Find average marks. 
- select avg(MARKS) FROM MARKS1;
+ select avg(MARKS) as avg_Marks from  MARKS1;
  
  ##16. Find highest marks.
- select max(MARKS) FROM MARKS1;
+ select max(MARKS)as Max_Marks FROM MARKS1;
  
  ##17. Find lowest marks.
- SELECT	min(MARKS) FROM MARKS1;
+ SELECT	min(MARKS) as Min_Marks FROM MARKS1;
  
  ##18. Find total marks scored by all students.
- SELECT sum(MARKS) FROM MARKS1;
+ SELECT sum(MARKS) as Total_Marks FROM MARKS1;
  
 
